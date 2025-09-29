@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Tomas
 
-<!--
-**Chombini/Chombini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer | AI & Web Solutions Builder**
 
-Here are some ideas to get you started:
+I specialize in transforming business ideas into **scalable, modern applications**. My focus is on performance, clarity, and results — from **frontend design** to **backend systems** and **AI-powered solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** Next.js, React, TypeScript, TailwindCSS
+* **Backend:** Node.js, Express, Supabase, PostgreSQL, MongoDB
+* **AI & Tools:** Vercel AI SDK, Google Gemini API, Pinecone, LangChain
+* **Other:** Git, Docker, REST APIs, CI/CD
+
+---
+
+## 📌 Featured Projects
+
+* **Chat with PDF** → AI-powered app for document interaction.
+* **AI Video Editor** → Automated video editing tool.
+* **Thumbnail Designer** → Web app for modern YouTube-style thumbnails.
+
+---
+
+## 📊 GitHub Stats
+
+![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* Portfolio: [your-portfolio-link](#)
+* LinkedIn: [linkedin.com/in/yourprofile](#)
+* Twitter: [twitter.com/yourprofile](#)
+* Email: **[your@email.com](mailto:your@email.com)**
