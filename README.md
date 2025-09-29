@@ -11,27 +11,11 @@ I specialize in transforming business ideas into **scalable, modern applications
 * **Frontend:** Next.js, React, TypeScript, TailwindCSS
 * **Backend:** Node.js, Express, Supabase, PostgreSQL, MongoDB
 * **AI & Tools:** Vercel AI SDK, Google Gemini API, Pinecone, LangChain
-* **Other:** Git, Docker, REST APIs, CI/CD
+* **Other:** REST APIs, django
 
 ---
 
-## 📌 Featured Projects
+## 🌐 Connect With Me and see my work in Portfolio
 
-* **Chat with PDF** → AI-powered app for document interaction.
-* **AI Video Editor** → Automated video editing tool.
-* **Thumbnail Designer** → Web app for modern YouTube-style thumbnails.
-
----
-
-## 📊 GitHub Stats
-
-![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?chombini=chombini\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-* Portfolio: [your-portfolio-link](#)
-* LinkedIn: [linkedin.com/in/yourprofile](#)
-* Twitter: [twitter.com/yourprofile](#)
-* Email: **[your@email.com](mailto:your@email.com)**
+* Portfolio: [(https://chombini.vercel.app/)](#)
+* Email: **[your@email.com](mailto:chombini.ask@gmail.com)**
