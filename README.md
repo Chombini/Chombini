@@ -6,12 +6,26 @@ I specialize in transforming business ideas into **scalable, modern applications
 
 ---
 
-## 🛠️ Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40"/>   
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40"/>  
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"/>  
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/>  
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40"/>  
+</div>
 
-* **Frontend:** Next.js, React, TypeScript, TailwindCSS
-* **Backend:** Node.js, Express, Supabase, PostgreSQL, MongoDB
-* **AI & Tools:** Vercel AI SDK, Google Gemini API, Pinecone, LangChain
-* **Other:** REST APIs, django
+## 🛠️ Tech Stack
+- Frontend: Next.js · React · TailwindCSS · GSAP
+- Backend: Node.js · Supabase · PostgreSQL · MongoDB
+- AI & Tools: Gemini API · LangChain · Pinecone · Vercel AI SDK
 
 ---
 
