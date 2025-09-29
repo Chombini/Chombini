@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tomas
 
-💻 **Full Stack Developer | AI & Web Solutions Builder**
+💻 **Software Developer | AI & Web Solutions Builder**
 
 I specialize in transforming business ideas into **scalable, modern applications**. My focus is on performance, clarity, and results — from **frontend design** to **backend systems** and **AI-powered solutions**.
 
