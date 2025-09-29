@@ -25,7 +25,7 @@ I specialize in transforming business ideas into **scalable, modern applications
 
 ## 📊 GitHub Stats
 
-![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?chombini=chombini\&show_icons=true\&theme=tokyonight)
 
 ---
 
