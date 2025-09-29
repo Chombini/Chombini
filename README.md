@@ -17,5 +17,8 @@ I specialize in transforming business ideas into **scalable, modern applications
 
 ## 🌐 Connect With Me and see my work in Portfolio
 
-* Portfolio: [chombini.com](https://chombini.vercel.app/)(#)
+* Portfolio: [chombini.com](https://chombini.vercel.app/)
 * Email: **[chombini.ask@email.com](mailto:chombini.ask@gmail.com)**
+
+
+
