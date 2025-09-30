@@ -17,7 +17,6 @@ I specialize in transforming business ideas into **scalable, modern applications
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40"/>   
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40"/>  
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"/>  
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40"/>  
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40"/>  
 </div>
